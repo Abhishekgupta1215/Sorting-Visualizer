@@ -51,3 +51,5 @@ function handleDispatch(toDispatch, dispatch, array, speed) {
 }
 
 export default bubbleSort;
+
+
